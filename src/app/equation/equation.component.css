@@ -26,3 +26,6 @@ form {
     font-size: 24px;
   }
   
+  .close{
+      background-color: rgba(83, 255, 60, 0.3);
+  }
